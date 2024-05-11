@@ -25,9 +25,6 @@ function App() {
             <Link to='/cake'>
                 Visit /cake
             </Link>
-            <Link to='/cake'>
-                Visit /more cake
-            </Link>
         </>
     )
 }
